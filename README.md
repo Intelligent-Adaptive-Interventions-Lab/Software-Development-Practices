@@ -4,7 +4,7 @@
 
 This is a repository that contains all the desired practices of the lab. Shoutout to everyone who contributed to this repository!!! 
 
-It will cover all the following areas:
+## What This Repo Contains
 1) README.md template
 2) CHANGELOG.md template
 3) Virtual Environments
@@ -12,9 +12,11 @@ It will cover all the following areas:
 5) Git Practises
 6) CI/CD Templates
 7) Docker Templates
-8) Docstrings
+8) Documentation
 9) Tests
-10) Code Reviews
+10) Code Review
+
+## Additional Resources
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
